@@ -1,6 +1,3 @@
-# Simple full-featured Python (Flask) website for a Software Engineering theme
-# Run: pip install flask && python software_engineering_website.py
-
 from flask import Flask, render_template_string
 
 app = Flask(__name__)
